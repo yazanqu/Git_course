@@ -1,2 +1,2 @@
-FROM ubuntu_16.04
+FROM nginx:latest
 Add . .
